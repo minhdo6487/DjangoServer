@@ -4,10 +4,10 @@ class storageData:
     def __init__(self):
         pass
     @classmethod
-    def jsonData(cls,catgorizeComment,comment):
+    def jsonData(cls,urlSubLink,headerH1):
         return {
-            'catgorizeComment':catgorizeComment,
-            'comment':comment
+            'urlSubLink':urlSubLink,
+            'headerH1':headerH1
         }
     @classmethod
     def jsonSave(cls,jsonData,fileID):
