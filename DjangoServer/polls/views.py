@@ -7,6 +7,8 @@ from .models import Choice, Question, UrlNav, SubUrlNav
 from polls.crawlData import crawlData, crawlSpecificCss
 from polls.storageData import storageData
 from polls.dumpModelToJson import dumpModelToJson
+import googlemaps
+from django import forms
 
 class IndexView(generic.ListView):
 
@@ -26,6 +28,23 @@ class DetailView(generic.DetailView):
 class ResultsView(generic.DetailView):
     model = Question
     template_name = 'polls/results.html'
+'''
+class AdressForm(forms.Form):
+    def __init__(self):
+        pass
+    @classmethod
+    def getAdress(cls):
+        address = forms.CharField(max_length=250)
+        gmaps = googlemaps.Client(key='AIzaSyDw9g1GpWuHB2z8gSyM3_Ww48M7sk9pivw')
+        geocode_result = gmaps.geocode(address)
+        lat = geocode_result[0]['geometry']['location']['lat']
+        lng = geocode_result[0]['geometry']['location']['lng']
+        context = {
+            'lst':lat,
+            'lng':lng
+        }
+        return lat, lng
+'''
 
 def ResultCrawlData(request):
     queryset = UrlNav.objects.all()
@@ -33,6 +52,10 @@ def ResultCrawlData(request):
         'object_list':queryset,
     }
     return render(request,'polls/renderCrawlData.html',context)
+
+def GoogleMap(request):
+   #lat, lng = AdressForm.getAdress()
+    return render(request,'polls/googlemap.html')
 
 def ResultCrawlSubData(request):
     queryset = SubUrlNav.objects.all()
@@ -73,7 +96,7 @@ def vote(request, question_id, listDataModel=UrlNav.objects.all() ):
         # Always return an HttpResponseRedirect after successfully dealing
         # with POST data. This prevents data from being posted twice if a
         # user hits the Back button.
-        #return HttpResponseRedirect(reverse('polls:results', args=(question.id,)))
+        return HttpResponseRedirect(reverse('polls:results', args=(question.id,)))
         #return HttpResponseRedirect(reverse('polls:results', args=(Question.objects.get(pk=1).choice_set.all())))
-        return HttpResponse(listsubmodel)
+        #return HttpResponse(listsubmodel)
 

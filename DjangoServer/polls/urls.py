@@ -3,7 +3,8 @@ from django.conf.urls import url
 from . import views
 from .views import(
     ResultCrawlData,
-    ResultCrawlSubData
+    ResultCrawlSubData,
+    GoogleMap
 )
 
 app_name = 'polls'
@@ -13,5 +14,6 @@ urlpatterns = [
     url(r'^(?P<pk>[0-9]+)/results/$', views.ResultsView.as_view(), name='results'),
     url(r'^(?P<question_id>[0-9]+)/vote/$', views.vote, name='vote'),
     url(r'^crawldata/$',ResultCrawlData),
-    url(r'^crawlsubdata/$',ResultCrawlSubData)
+    url(r'^crawlsubdata/$',ResultCrawlSubData),
+    url(r'^googlemap/$',GoogleMap)
 ]

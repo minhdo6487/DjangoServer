@@ -4,8 +4,11 @@ from polls.crawlData import crawlData, crawlSpecificCss
 from polls.storageData import storageData
 from polls.dumpModelToJson import dumpModelToJson
 from django.db import models
+
 from django.utils import timezone
 import re
+
+
 
 class Question(models.Model):
     question_text = models.CharField(max_length=200)
@@ -21,6 +24,8 @@ class Choice(models.Model):
     votes = models.IntegerField(default=0)
     def __str__(self):
         return self.choice_text
+
+
 
 class UrlNav(models.Model):
     navigation_link = models.CharField(max_length=200)
@@ -56,6 +61,5 @@ class SubUrlNav(models.Model):
                         subUrlLink.save()
                     except:
                         pass
-
 
 

@@ -1,8 +1,14 @@
-<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Render Google Map</title>
+</head>
+<body>
+<script src="//maps.googleapis.com/maps/api/js?key=AIzaSyC3AwaZZzQfMJPcNn5ZJTEkUcvJhoxKzmI"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script>
     $(document).ready(function() {
-        var latlng = new google.maps.LatLng("{{ latitude }}", "{{ longitude }}");
+        var latlng = new google.maps.LatLng("{{ 10.7720919 }}", "{{ 106.674242 }}");
         var mapOptions = {
             zoom: 15,
             center: latlng,
@@ -18,14 +24,16 @@
             title:"Jesteś tutaj"
         });
 
-        {% for shop in shops %}
+        {/*% for shop in shops %}
             latlng = new google.maps.LatLng("{{ shop.location.y }}", "{{ shop.location.x }}");
             new google.maps.Marker({
                 position: latlng,
                 map: map,
                 title:"{{ shop.name }}"
             });
-        {% endfor %}
+        {% endfor %*/}
     });
 </script>
 <div class="map" style="width: 400px; height: 400px;"></div>
+</body>
+</html>
