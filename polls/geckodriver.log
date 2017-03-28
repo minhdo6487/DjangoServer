@@ -1,0 +1,123 @@
+1490087572357	geckodriver	INFO	Listening on 127.0.0.1:60883
+1490087574437	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.a9HNAbZkOx47
+1490087574437	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490087574437	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60891
+1490087575400	Marionette	INFO	Listening on port 60891
+JavaScript warning: https://img1a.flixcart.com/www/linchpin/fk-cp-zion/js/vendor.823d00.js, line 8: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1490087866022	geckodriver	INFO	Listening on 127.0.0.1:61495
+1490087868062	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.w3iH1yHMWH8N
+1490087868062	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490087868062	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61506
+1490087869410	Marionette	INFO	Listening on port 61506
+JavaScript warning: https://img1a.flixcart.com/www/linchpin/fk-cp-zion/js/vendor.823d00.js, line 8: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1490087922425	geckodriver	INFO	Listening on 127.0.0.1:61634
+1490087924465	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.6yQPzUGrZQVm
+1490087924468	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490087924472	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61642
+1490087925921	Marionette	INFO	Listening on port 61642
+JavaScript warning: https://img1a.flixcart.com/www/linchpin/fk-cp-zion/js/vendor.823d00.js, line 8: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1490088239714	geckodriver	INFO	Listening on 127.0.0.1:62156
+1490088241755	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.wtpQcsHLjIFi
+1490088241758	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490088241761	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62164
+1490088242806	Marionette	INFO	Listening on port 62164
+JavaScript warning: https://img1a.flixcart.com/www/linchpin/fk-cp-zion/js/vendor.609e22.js, line 8: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1490088326852	geckodriver	INFO	Listening on 127.0.0.1:62340
+1490088328900	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.kkOS12AaM2XO
+1490088328904	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490088328908	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62348
+1490088329781	Marionette	INFO	Listening on port 62348
+JavaScript warning: https://img1a.flixcart.com/www/linchpin/fk-cp-zion/js/vendor.823d00.js, line 8: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1490088454844	geckodriver	INFO	Listening on 127.0.0.1:62629
+1490088458308	geckodriver	INFO	Listening on 127.0.0.1:62650
+1490088460360	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.Ymo4sBz0QlQI
+1490088460360	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490088460376	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62669
+1490088461468	Marionette	INFO	Listening on port 62669
+JavaScript warning: https://img1a.flixcart.com/www/linchpin/fk-cp-zion/js/vendor.823d00.js, line 8: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1490088611600	geckodriver	INFO	Listening on 127.0.0.1:62994
+1490088613676	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.mVxGzsMMd6Gh
+1490088613676	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490088613676	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63002
+1490088614814	Marionette	INFO	Listening on port 63002
+JavaScript warning: https://img1a.flixcart.com/www/linchpin/fk-cp-zion/js/vendor.823d00.js, line 8: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1490089265201	geckodriver	INFO	Listening on 127.0.0.1:63993
+1490089267257	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.R5M1iDR9Rn2B
+1490089267257	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490089267257	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64003
+1490089268344	Marionette	INFO	Listening on port 64003
+JavaScript warning: https://img1a.flixcart.com/www/linchpin/fk-cp-zion/js/vendor.609e22.js, line 8: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1490091451873	geckodriver	INFO	Listening on 127.0.0.1:50779
+1490091453955	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.El5Xb8QJmK1o
+1490091453955	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490091453955	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50787
+1490091454993	Marionette	INFO	Listening on port 50787
+JavaScript warning: https://img1a.flixcart.com/www/linchpin/fk-cp-zion/js/vendor.823d00.js, line 8: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1490091629635	geckodriver	INFO	Listening on 127.0.0.1:51118
+1490091631716	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.aDOUlkHpZIHj
+1490091631719	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490091631719	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51126
+1490091632815	Marionette	INFO	Listening on port 51126
+JavaScript warning: https://img1a.flixcart.com/www/linchpin/fk-cp-zion/js/vendor.823d00.js, line 8: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1490091824946	geckodriver	INFO	Listening on 127.0.0.1:51459
+1490091826999	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.fyNTa5UkZRGZ
+1490091827015	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490091827015	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51467
+1490091828032	Marionette	INFO	Listening on port 51467
+JavaScript warning: https://img1a.flixcart.com/www/linchpin/fk-cp-zion/js/vendor.823d00.js, line 8: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1490091908819	geckodriver	INFO	Listening on 127.0.0.1:51648
+1490091910860	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.scAE68RgaSLK
+1490091910864	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490091910867	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51656
+1490091911824	Marionette	INFO	Listening on port 51656
+JavaScript warning: https://img1a.flixcart.com/www/linchpin/fk-cp-zion/js/vendor.609e22.js, line 8: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1490092173457	geckodriver	INFO	Listening on 127.0.0.1:52083
+1490092175510	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.Cg1SAGHJOdBm
+1490092175510	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490092175526	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52094
+1490092176595	Marionette	INFO	Listening on port 52094
+JavaScript warning: https://img1a.flixcart.com/www/linchpin/fk-cp-zion/js/vendor.823d00.js, line 8: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1490092411784	geckodriver	INFO	Listening on 127.0.0.1:52480
+1490092413820	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.ZsiddRJm5JO8
+1490092413836	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490092413836	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52490
+1490092415089	Marionette	INFO	Listening on port 52490
+JavaScript warning: https://img1a.flixcart.com/www/linchpin/fk-cp-zion/js/vendor.823d00.js, line 8: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1490092558179	geckodriver	INFO	Listening on 127.0.0.1:52759
+1490092560229	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.GYty1EDwXrIc
+1490092560245	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490092560245	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52767
+1490092561223	Marionette	INFO	Listening on port 52767
+JavaScript warning: https://img1a.flixcart.com/www/linchpin/fk-cp-zion/js/vendor.823d00.js, line 8: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1490092907379	geckodriver	INFO	Listening on 127.0.0.1:54318
+1490092909406	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.nuJIl58AdFNV
+1490092909419	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490092909422	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54326
+1490092910535	Marionette	INFO	Listening on port 54326
+JavaScript warning: https://img1a.flixcart.com/www/linchpin/fk-cp-zion/js/vendor.823d00.js, line 8: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1490093082176	geckodriver	INFO	Listening on 127.0.0.1:54819
+1490093084210	mozprofile::profile	INFO	Using profile path C:\Users\DELL\AppData\Local\Temp\rust_mozprofile.OgHGTgIev1Q2
+1490093084224	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490093084230	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54829
+1490093085303	Marionette	INFO	Listening on port 54829
+JavaScript warning: https://img1a.flixcart.com/www/linchpin/fk-cp-zion/js/vendor.823d00.js, line 8: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/environment.js, line 15: Proxy.create and Proxy.createFunction are deprecated, use new Proxy instead
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: , line 0: uncaught exception: [object Object]
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change","state":"(none)","filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":173,"stack":["resource://gre/modules/CrashMonitor.jsm:this.CrashMonitor.init:173","resource://gre/components/nsCrashMonitor.js:CrashMonitor.prototype.observe:24"]}] Barrier: OS.File: Waiting for clients before profileBeforeChange
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"XPIProvider","state":"(none)","filename":"resource://gre/modules/AddonManager.jsm","lineNumber":779,"stack":["resource://gre/modules/AddonManager.jsm:_startProvider:779","resource://gre/modules/AddonManager.jsm:AddonManagerInternal.startup:938","resource://gre/modules/AddonManager.jsm:this.AddonManagerPrivate.startup:2773","resource://gre/components/addonManager.js:amManager.prototype.observe:57"]}] Barrier: AddonManager: Waiting for providers to shut down.
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"OS.File: flush I/O queued before profileBeforeChange","state":{"launched":true,"shutdown":false,"worker":true,"pendingReset":false,"latestSent":["Tue Mar 21 2017 04:16:06 GMT-0700 (Pacific Standard Time)","makeDir"],"latestReceived":null,"messagesSent":1108,"messagesReceived":1107,"messagesQueued":1121,"DEBUG":false,"clients":[{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change","state":"(none)","filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":173,"stack":["resource://gre/modules/CrashMonitor.jsm:this.CrashMonitor.init:173","resource://gre/components/nsCrashMonitor.js:CrashMonitor.prototype.observe:24"]}]},"filename":"resource://gre/modules/osfile/osfile_async_front.jsm","lineNumber":1511,"stack":["resource://gre/modules/osfile/osfile_async_front.jsm:setupShutdown:1511","resource://gre/modules/osfile/osfile_async_front.jsm:null:1532","resource://gre/modules/osfile.jsm:null:11","resource://services-common/utils.js:null:12","resource://services-sync/util.js:null:12","resource://gre/components/Weave.js:null:13"]},{"name":"AddonManager: shutting down.","state":[{"name":"AddonManager: Waiting for providers to shut down.","state":[{"name":"XPIProvider","state":"(none)","filename":"resource://gre/modules/AddonManager.jsm","lineNumber":779,"stack":["resource://gre/modules/AddonManager.jsm:_startProvider:779","resource://gre/modules/AddonManager.jsm:AddonManagerInternal.startup:938","resource://gre/modules/AddonManager.jsm:this.AddonManagerPrivate.startup:2773","resource://gre/components/addonManager.js:amManager.prototype.observe:57"]}]},{"name":"AddonRepository: async shutdown","state":"pending"}],"filename":"resource://gre/modules/AddonManager.jsm","lineNumber":930,"stack":["resource://gre/modules/AddonManager.jsm:AddonManagerInternal.startup:930","resource://gre/modules/AddonManager.jsm:this.AddonManagerPrivate.startup:2773","resource://gre/components/addonManager.js:amManager.prototype.observe:57"]},{"name":"SessionFile: Finish writing Session Restore data","state":{"options":{"isFinalWrite":false,"performShutdownCleanup":false},"attempts":9,"successes":6,"failures":0},"filename":"resource://app/modules/sessionstore/SessionFile.jsm","lineNumber":355,"stack":["resource://app/modules/sessionstore/SessionFile.jsm:SessionFileInternal.write:355","resource://app/modules/sessionstore/SessionFile.jsm:this.SessionFile.write:76","resource://app/modules/sessionstore/SessionSaver.jsm:SessionSaverInternal._writeState:257","resource://app/modules/sessionstore/SessionSaver.jsm:SessionSaverInternal._saveState:228","resource://app/modules/sessionstore/SessionSaver.jsm:SessionSaverInternal._saveStateAsync:241","resource://app/modules/sessionstore/SessionSaver.jsm:SessionSaverInternal.runDelayed/this._timeoutID<:147","resource://gre/modules/Timer.jsm:setTimeout_timer:30"]},{"name":"SessionFile: Finish writing Session Restore data","state":{"options":{"isFinalWrite":false,"performShutdownCleanup":false},"attempts":9,"successes":6,"failures":0},"filename":"resource://app/modules/sessionstore/SessionFile.jsm","lineNumber":355,"stack":["resource://app/modules/sessionstore/SessionFile.jsm:SessionFileInternal.write:355","resource://app/modules/sessionstore/SessionFile.jsm:this.SessionFile.write:76","resource://app/modules/sessionstore/SessionSaver.jsm:SessionSaverInternal._writeState:257","resource://app/modules/sessionstore/SessionSaver.jsm:SessionSaverInternal._saveState:228","resource://app/modules/sessionstore/SessionSaver.jsm:SessionSaverInternal._saveStateAsync:241","resource://app/modules/sessionstore/SessionSaver.jsm:SessionSaverInternal.runDelayed/this._timeoutID<:147","resource://gre/modules/Timer.jsm:setTimeout_timer:30"]},{"name":"SessionFile: Finish writing Session Restore data","state":{"options":{"isFinalWrite":true,"performShutdownCleanup":true},"attempts":9,"successes":6,"failures":0},"filename":"resource://app/modules/sessionstore/SessionFile.jsm","lineNumber":355,"stack":["resource://app/modules/sessionstore/SessionFile.jsm:SessionFileInternal.write:355","resource://app/modules/sessionstore/SessionFile.jsm:this.SessionFile.write:76","resource://app/modules/sessionstore/SessionSaver.jsm:SessionSaverInternal._writeState:257","resource://app/modules/sessionstore/SessionSaver.jsm:SessionSaverInternal._saveState:228","resource://app/modules/sessionstore/SessionSaver.jsm:SessionSaverInternal.run:125","resource://app/modules/sessionstore/SessionSaver.jsm:this.SessionSaver<.run:76","resource:///modules/sessionstore/SessionStore.jsm:ssi_uninit:620","resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplication:1534","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:649"]}] Barrier: profile-before-change
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    SessionFileInternal.write@resource://app/modules/sessionstore/SessionFile.jsm:315:29
+this.SessionFile.write@resource://app/modules/sessionstore/SessionFile.jsm:76:12
+SessionSaverInternal._writeState@resource://app/modules/sessionstore/SessionSaver.jsm:257:12
+SessionSaverInternal._saveState@resource://app/modules/sessionstore/SessionSaver.jsm:228:12
+SessionSaverInternal._saveStateAsync@resource://app/modules/sessionstore/SessionSaver.jsm:241:5
+SessionSaverInternal.runDelayed/this._timeoutID<@resource://app/modules/sessionstore/SessionSaver.jsm:147:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+Spinner.prototype.observe@resource://gre/modules/AsyncShutdown.jsm:551:9
+
+FATAL ERROR: AsyncShutdown timeout in AddonManager: Waiting for providers to shut down. Conditions: [{"name":"XPIProvider","state":"(none)","filename":"resource://gre/modules/AddonManager.jsm","lineNumber":779,"stack":["resource://gre/modules/AddonManager.jsm:_startProvider:779","resource://gre/modules/AddonManager.jsm:AddonManagerInternal.startup:938","resource://gre/modules/AddonManager.jsm:this.AddonManagerPrivate.startup:2773","resource://gre/components/addonManager.js:amManager.prototype.observe:57"]}] At least one completion condition failed to complete within a reasonable amount of time. Causing a crash to ensure that we do not leave the user with an unresponsive process draining resources.
+[7112] ###!!! ABORT: file resource://gre/modules/AddonManager.jsm, line 779

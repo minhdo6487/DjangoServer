@@ -1,0 +1,27 @@
+http://www.rkblog.rk.edu.pl/w/p/shops-near-you-geographic-features-geodjango/
+C:\Users\DELL\PycharmProjects\TryFirstPython\DjangoServer\DjangoServer : sprint-1
+
+way to query foreignkey
+ for item in UrlNav.objects.all():
+   ...:     print(item.suburlnav_set.all())
+   ...:     print(item.navigation_link)
+
+way to encode and decode
+for item in listCraw:
+    ...:     print(item['name'].encode('ascii','ignore').decode('UTF-8'))
+    ...:     print(item['address'].encode('ascii','ignore').decode('UTF-8'))
+
+<tr><th><label for="id_address">Address:</label></th><td><ul class="errorlist"><li>This field is required.</li></ul><input id="id_addr
+ess" name="address" type="text" /></td></tr>
+
+
+way to use elasticsearch with api
+ i = 1
+    ...: while r.status_code == 200:
+    ...:     r = requests.get('http://localhost:8000/api/polls/'+ str(i))
+    ...:     es.index(index='sw', doc_type='people', id=i, body=json.loads(r.content))
+    ...:     i=i+1
+
+    ...:
+    ...: print(i)
+

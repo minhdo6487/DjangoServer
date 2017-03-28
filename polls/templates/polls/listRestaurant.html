@@ -1,0 +1,17 @@
+<h1>test google-map-api</h1>
+
+<form method="post" action="./">
+<form method="post" action="{% url 'polls:search' 2 %}">
+    {% csrf_token %}
+    {{ form }}
+    <table>
+
+        {% for link in res_list %}
+            <li>
+                {{ link }}
+            </li>
+        {% endfor %}
+
+    </table>
+    <input type="submit" value="Search" />
+</form>

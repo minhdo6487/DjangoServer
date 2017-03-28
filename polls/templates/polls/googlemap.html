@@ -1,0 +1,75 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Render Google Map</title>
+    <style>
+        .row {
+            display: flex; /* equal height of the children */
+        }
+
+        .col {
+            flex: 1; /* additionally, equal width */
+            padding: 1em;
+            /*border: solid;*/
+        }
+    </style>
+</head>
+<body>
+<script src="//maps.googleapis.com/maps/api/js?key=AIzaSyC3AwaZZzQfMJPcNn5ZJTEkUcvJhoxKzmI"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<form method="post" action="./">
+    {% csrf_token %}
+    {{ form }}
+
+    <input type="submit" value="Search" />
+</form>
+
+<div class="row">
+    <div class="col">
+        <script>
+            $(document).ready(function() {
+                var latlng = new google.maps.LatLng("{{ lat }}", "{{ lng }}");
+                var mapOptions = {
+                    zoom: 15,
+                    center: latlng,
+                    mapTypeControl: false,
+                    navigationControlOptions: {style: google.maps.NavigationControlStyle.SMALL},
+                    mapTypeId: google.maps.MapTypeId.ROADMAP
+                };
+                map = new google.maps.Map($('.map')[0], mapOptions);
+
+                var marker = new google.maps.Marker({
+                    position: latlng,
+                    map: map,
+                    title:"{{ nameRestaurant }}"
+                });
+
+                {/*% for shop in shops %}
+                    latlng = new google.maps.LatLng("{{ shop.location.y }}", "{{ shop.location.x }}");
+                    new google.maps.Marker({
+                        position: latlng,
+                        map: map,
+                        title:"{{ shop.name }}"
+                    });
+                {% endfor %*/}
+            });
+        </script>
+        <div class="map" style="width: 600px; height: 400px;"></div>
+    </div>
+
+  <div class="col">
+      <table>
+        {% for link in res_list_name %}
+            <li>
+                {{ link }}
+            </li>
+        {% endfor %}
+    </table>
+  </div>
+
+
+</div>
+
+</body>
+</html>

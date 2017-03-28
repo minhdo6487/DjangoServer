@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Polls Restaurant</title>
+</head>
+<body>
+<form method="POST" enctype="multipart/form-data"  action="">{% csrf_token %}
+    {{ form.as_p }}
+    <input type="submit" value="Create Restaurant">
+</form>
+</body>
+</html>
